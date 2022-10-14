@@ -16,7 +16,7 @@ class Complete{
                 
                 if(hm.containsKey(curr-1) && hm.get(curr-1) > 0)
                 {
-                    hm.put(curr+1, hm.get(curr-1)-1);
+                    hm.put(curr-1, hm.get(curr-1)-1);
                 }
  
                 sum += curr;
