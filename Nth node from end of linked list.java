@@ -1,3 +1,4 @@
+// Tc - O(N)
 class GfG
 {
     //Function to find the data of nth node from the end of a linked list.
