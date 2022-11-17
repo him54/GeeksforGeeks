@@ -1,5 +1,6 @@
 //User function Template for Java
-
+import java.util.*;
+import java.io.*;
 class Solution
 {
 
